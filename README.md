@@ -25,3 +25,8 @@ Aunque es común que diferentes estudiantes realicen trayectos semejantes en hor
 - Jaider Alberto Rocha Redondo
 - Thomas Alfonso Méndez Vega
 - Sebastián Camilo Fontecha Barreto
+
+## 📄 Documentación del Proyecto
+El informe técnico completo de la Entrega 2 se encuentra disponible para consulta en el siguiente enlace público:
+
+- [(PDF)](https://drive.google.com/file/d/1yV8YuNOszONr3wwgfifD8kMKYo_Od_44/view?usp=sharing)
