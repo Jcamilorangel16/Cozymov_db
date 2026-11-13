@@ -24,7 +24,7 @@ CREATE TABLE VEHICULO (
     id_usuario VARCHAR(20) NOT NULL,
     tipo VARCHAR(20) NOT NULL CHECK (tipo IN ('Automovil', 'Moto','Bicicleta electrica')),
     modelo VARCHAR(50) NOT NULL,
-    capacidad SMALLINT NOT NULL CHECK (capacidad > 0),
+    capacidad SMALLINT NOT NULL CHECK (capacidad > 0 AND capacidad <= 6),
     ruta_cotidiana VARCHAR(255) NULL,
     foto_vehiculo VARCHAR(255),
     CONSTRAINT fk_vehiculo_conductor 
